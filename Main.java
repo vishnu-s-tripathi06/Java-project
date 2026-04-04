@@ -1,8 +1,10 @@
 import java.util.Scanner;
+static int x=10;
 public class Main{
     public static void main(String[] args) {
-    Scanner input=new Scanner(System.in);
-    System.out.println("Enter the index");
-    
+        System.out.println(x);
+ 
+            
 
-
+}
+}
